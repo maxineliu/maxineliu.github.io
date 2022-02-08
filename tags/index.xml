@@ -35,6 +35,24 @@
     </item>
     
     <item>
+      <title>test</title>
+      <link>/tags/test/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ubuntu</title>
       <link>/tags/ubuntu/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>

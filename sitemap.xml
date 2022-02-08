@@ -14,9 +14,6 @@
     <loc>/post/my-first-post/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/my-second-post/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,6 +33,15 @@
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/tech/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/test/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/my-second-post/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2018/06/02/istio08/</loc>

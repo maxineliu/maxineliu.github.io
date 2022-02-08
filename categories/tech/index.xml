@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>An Example Post</title>
+      <link>/post/my-second-post/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Istio v1aplha3 routing API介绍(译文）</title>
       <link>/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
